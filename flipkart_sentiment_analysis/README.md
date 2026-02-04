@@ -116,7 +116,7 @@ http://13.235.132.119:8501/
 This project demonstrates a complete end-to-end machine learning pipeline, from data preprocessing and model training to cloud deployment. It provides valuable insights into customer sentiment and showcases practical ML deployment skills.
 
 ## 🔗 Useful Links
-* **GitHub Repository:** https://github.com/saurabhshirole1/flipkart-product-review-sentiment-analysis
+* **GitHub Repository:** https://github.com/pruthvipatil26/Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews/tree/main
 * **AWS Deployment Link:** http://13.235.132.119:8501/
 
 ## 🙌 Acknowledgement
